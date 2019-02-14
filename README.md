@@ -1,0 +1,3 @@
+# price-notifier
+
+## fast vote
