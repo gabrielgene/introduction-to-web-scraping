@@ -1,4 +1,4 @@
-# Semcomp talk
+# Introduction to web scraping
 
 ### Configurando o projeto
 
