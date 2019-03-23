@@ -12,7 +12,7 @@ def browser_crawler(product_url):
     # Pega o texto do titulo
     title = browser.find_element_by_css_selector(".js-header-product h1").text
 
-    # Pega o preço pelo atrivuto content
+    # Pega o preço pelo atributo content
     price = browser.find_element_by_css_selector(
         ".price-template-price-block meta[itemprop='price']"
     ).get_attribute("content")
